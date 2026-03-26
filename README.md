@@ -22,10 +22,12 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 Import Required Libraries from Python Library:
+```
 import pandas as pd
 import numpy as np
 from scipy import stats
 import seaborn as sns
 import matplotlib.pyplot as plt
+```
 # Result
           <<include your Result here>>
